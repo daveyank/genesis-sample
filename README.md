@@ -1,6 +1,8 @@
 === Genesis Sample Theme ===
 
-Github project link: https://github.com/copyblogger/genesis-sample
+Customized for Lift Development client projects. Github project link: https://github.com/daveyank/genesis-sample
+
+Original Github project link: https://github.com/copyblogger/genesis-sample
 
 
 === Installation Instructions ===
@@ -9,8 +11,3 @@ Github project link: https://github.com/copyblogger/genesis-sample
 2. Go to your WordPress dashboard and select Appearance.
 3. Activate the Genesis Sample theme.
 4. Inside your WordPress dashboard, go to Genesis > Theme Settings and configure them to your liking.
-
-
-=== Theme Support ===
-
-Please visit http://my.studiopress.com/help/ for theme support.
