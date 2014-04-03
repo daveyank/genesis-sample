@@ -1,12 +1,11 @@
 /*
-	Theme Name: Genesis Sample
-	Description: This is the sample theme created for the Genesis Framework.
-	Author: StudioPress
-	Author URI: http://www.studiopress.com/
+	Theme Name: Lift Genesis Sample
+	Description: Custom child created for the Genesis Framework.
+	Author: Lift Development
+	Author URI: http://www.liftdevelopment.com/
 	Version: 2.0.1
 	
 	Template: genesis
-	Template Version: 2.0.1
  
 	License: GPL-2.0+
 	License URI: http://www.opensource.org/licenses/gpl-license.php
@@ -297,13 +296,11 @@ select,
 textarea {
 	background-color: #fff;
 	border: 1px solid #ddd;
-	border-radius: 3px;
-	box-shadow: 1px 1px 3px #eee inset;
 	color: #999;
 	font-size: 14px;
 	font-size: 1.4rem;
-	padding: 16px;
-	padding: 1.6rem;
+	padding: 5px 15px;
+	padding: .5rem 1.5rem;
 	width: 100%;
 }
 
